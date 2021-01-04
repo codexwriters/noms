@@ -1,2 +1,2 @@
-# plugins
-Plugin development
+# Noms Plugin
+This overrides the [user_guardian.rb](https://github.com/discourse/discourse/blob/master/lib/guardian/user_guardian.rb) class in the Discourse core to allow users to change their username and name of their anonymous user accounts. By default, when entering Anonymous Mode, users are given a random name like `anonymousXXXX` where `XXXX` is an incrementing number. To support the use of Codex 'noms' (a feature of the legacy Codex forum), users need to be able to change these anonymous usernames to something they prefer. 
