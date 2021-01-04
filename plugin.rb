@@ -1,4 +1,4 @@
-# name: enable-noms
+# name: noms
 # about: Allows users in Anonymous Mode to change their usernames
 # version: 0.1
 
