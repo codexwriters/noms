@@ -1,7 +1,7 @@
 # name: enable-noms
 # about: Allows users in Anonymous Mode to change their usernames
 # version: 0.1
-# url: https://github.com/paviliondev/discourse-topic-previews
+
 
 require_dependency 'guardian'
 require_dependency 'guardian/user_guardian'
